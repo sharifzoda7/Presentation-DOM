@@ -9,3 +9,5 @@
 <p>Модель HTML DOM построена как дерево объектов :</p>
 
 ![](https://github.com/Manuchehr-1998/Dom/raw/master/img/Screenshot_1.png)
+
+![](https://github.com/Manuchehr-1998/Dom/raw/master/img/Screenshot_2.png)
